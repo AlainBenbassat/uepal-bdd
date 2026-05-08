@@ -45,3 +45,19 @@ main {
   background-position: 30px -50px;*/
   padding: 50px 0 0 0;
 }
+
+.crm-section .label {
+  width: 100% !important;
+  display: block !important;
+  float: none !important;
+  text-align: left !important;  
+  margin-bottom: 4px;
+}
+
+.crm-section .content {
+  width: 100% !important;
+  display: block !important;
+  margin-left: 0 !important;
+  text-align: left !important;
+}
+
