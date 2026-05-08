@@ -1,0 +1,43 @@
+main {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+#uepalbdd-header {
+  border-top: 10px solid #64b445;
+  padding-top: 10px;
+}
+
+#uepalbdd-header img {
+  width: 200px;
+  margin-left: 10px;
+}
+
+#uepalbdd-footer img {
+  margin-left: 10px;
+}
+
+#crm-main-content-wrapper {
+  max-width: 690px;
+}
+
+#crm-main-content-wrapper div.crm-submit-buttons button, #crm-main-content-wrapper div.crm-submit-buttons a.button {
+  background-color: #0093d6 !important;
+  text-shadow: none !important;
+  padding: 10px 20px 10px 20px !important;
+  border: none !important;
+}
+
+#crm-main-content-wrapper div.messages {
+  background-color: #edeff7 !important;
+  border: 1px solid #e6e8f2 !important;
+}
+
+#uepalbdd-footer {
+  background-color: #303240;
+  background-image: url(https://www.uepal.fr/wp-content/themes/uepal/dist/images/bg-footer.svg);
+  background-repeat: no-repeat;
+  /*background-size: 850px 533px;
+  background-position: 30px -50px;*/
+  padding: 50px 0 0 0;
+}
